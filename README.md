@@ -9,6 +9,9 @@ Simply copy the `src` and `include` directories into an existing Shade project.
 ## Usage
 To use, you should call the following methods in your application:
 ```
+#include "imgui.h"
+#include "imgui_impl_shade.hpp"
+
 void YourApplication::init()
 {
     // Setup Dear ImGui context
