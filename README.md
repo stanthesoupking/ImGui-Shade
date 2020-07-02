@@ -1,5 +1,5 @@
 # Dear ImGUI Shade Bindings
-Shade bindings for the widely used [Dear ImGui](https://github.com/ocornut/imgui).
+[Shade](https://github.com/stanthesoupking/Shade) bindings for the widely used [Dear ImGui](https://github.com/ocornut/imgui).
 
 The included ImGui source files are from version 1.77, you may wish to replace these with a newer version. However I cannot guarantee everything will work properly if you do so.
 
